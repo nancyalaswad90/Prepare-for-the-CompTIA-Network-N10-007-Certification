@@ -3,7 +3,7 @@
 
 .
 
-# Prepare for the CompTIA Network+ (N10-007) Certification
+# Prepare for the CompTIA Network+ (N10-007) Certification](https://www.linkedin.com/learning/paths/prepare-for-the-comptia-network-plus-n10-007-certification)
 
 
 The CompTIA Network+ certification measures a network administrator's basic understanding of networking components and concepts. This learning path covers the skills you need to become a certified Network+ administrator, including networking basics and techniques on how to manage a network.
