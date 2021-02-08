@@ -69,3 +69,15 @@ These Total Seminars courses cover the topics tested on the CompTIA Network+ (N1
 
 
 >  ![cer5.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1612804867/cer5.png)
+
+
+
+
+.
+
+## 6.
+
+
+
+
+> ![cer 6.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1612818586/cer_6.png)
