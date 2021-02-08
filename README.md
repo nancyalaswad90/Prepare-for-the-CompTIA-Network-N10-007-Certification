@@ -33,7 +33,7 @@ These Total Seminars courses cover the topics tested on the CompTIA Network+ (N1
 ## 2. CompTIA Network+ (N10-007) Cert Prep: 2 The Physical Network
 
 
-> ![cer.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1612718626/cer.png)
+> ![cer2.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1612748299/cer2.png)
 
 
 
