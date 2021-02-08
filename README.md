@@ -45,3 +45,27 @@ These Total Seminars courses cover the topics tested on the CompTIA Network+ (N1
 
 
 > ![cer3.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1612748151/cer3.png)
+
+
+
+.
+
+
+
+## 4. CompTIA Network+ (N10-007) Cert Prep: 4 Making TCP/IP Work
+
+
+
+> ![cer4.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1612804866/cer4.png)
+
+
+
+.
+
+
+
+## 5. CompTIA Network+ (N10-007) Cert Prep: 5 Securing TCP/IP
+
+
+
+>  ![cer5.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1612804867/cer5.png)
