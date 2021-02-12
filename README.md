@@ -75,7 +75,8 @@ These Total Seminars courses cover the topics tested on the CompTIA Network+ (N1
 
 .
 
-## 6.
+## 6. [CompTIA Network+ (N10-007) Cert Prep: 6 Advanced IP Networking](https://www.linkedin.com/learning/comptia-network-plus-n10-007-cert-prep-6-advanced-ip-networking/understand-ip-tunneling?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5c48c642498e71fa1840e376)
+
 
 
 
