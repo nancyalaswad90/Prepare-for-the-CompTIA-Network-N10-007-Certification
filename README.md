@@ -91,7 +91,21 @@ These Total Seminars courses cover the topics tested on the CompTIA Network+ (N1
 
 
 
+> ![cer 7](https://user-images.githubusercontent.com/36210723/107824357-01ea9f80-6d8a-11eb-84de-1fbd153d799c.png)
+
+
+.
+
+
 ## 8. CompTIA Network+ (N10-007) Cert Prep: 8 Building a Real-World Network
+
+
+
+
+> ![cer 8](https://user-images.githubusercontent.com/36210723/107824355-00b97280-6d8a-11eb-9196-7a2e5d6a28a0.png)
+
+
+.
 
 
 
