@@ -30,7 +30,16 @@ These Total Seminars courses cover the topics tested on the CompTIA Network+ (N1
 
 
 
-## 1. CompTIA Network+ (N10-007) Cert Prep: 1 Understanding Networks
+## First Course : CompTIA Network+ (N10-007) Cert Prep: 1 Understanding Networks
+
+
+
+## Course details
+
+## Skills covered
+
+
+## Learning objectives
 
 
 > ![cer.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1612748150/cer.png)
@@ -40,7 +49,17 @@ These Total Seminars courses cover the topics tested on the CompTIA Network+ (N1
 
 
 
-## 2. CompTIA Network+ (N10-007) Cert Prep: 2 The Physical Network
+## Second Course :  CompTIA Network+ (N10-007) Cert Prep: 2 The Physical Network
+
+
+
+
+## Course details
+
+## Skills covered
+
+
+## Learning objectives
 
 
 > ![cer2.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1612748299/cer2.png)
@@ -53,6 +72,13 @@ These Total Seminars courses cover the topics tested on the CompTIA Network+ (N1
 ## 3. CompTIA Network+ (N10-007) Cert Prep: 3 The World of TCP/IP
 
 
+## Course details
+
+## Skills covered
+
+
+## Learning objectives
+
 
 > ![cer3.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1612748151/cer3.png)
 
@@ -64,6 +90,12 @@ These Total Seminars courses cover the topics tested on the CompTIA Network+ (N1
 
 ## 4. CompTIA Network+ (N10-007) Cert Prep: 4 Making TCP/IP Work
 
+## Course details
+
+## Skills covered
+
+
+## Learning objectives
 
 
 > ![cer4.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1612805050/cer4.png)
@@ -77,6 +109,13 @@ These Total Seminars courses cover the topics tested on the CompTIA Network+ (N1
 ## 5. CompTIA Network+ (N10-007) Cert Prep: 5 Securing TCP/IP
 
 
+## Course details
+
+## Skills covered
+
+
+## Learning objectives
+
 
 >  ![cer5.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1612804867/cer5.png)
 
@@ -89,6 +128,12 @@ These Total Seminars courses cover the topics tested on the CompTIA Network+ (N1
 
 
 
+## Course details
+
+## Skills covered
+
+
+## Learning objectives
 
 
 > ![cer 6.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1612818586/cer_6.png)
@@ -101,6 +146,13 @@ These Total Seminars courses cover the topics tested on the CompTIA Network+ (N1
 
 
 
+## Course details
+
+## Skills covered
+
+
+## Learning objectives
+
 > ![cer 7](https://user-images.githubusercontent.com/36210723/107824357-01ea9f80-6d8a-11eb-84de-1fbd153d799c.png)
 
 
@@ -110,6 +162,12 @@ These Total Seminars courses cover the topics tested on the CompTIA Network+ (N1
 ## 8. CompTIA Network+ (N10-007) Cert Prep: 8 Building a Real-World Network
 
 
+## Course details
+
+## Skills covered
+
+
+## Learning objectives
 
 
 > ![cer 8](https://user-images.githubusercontent.com/36210723/107824355-00b97280-6d8a-11eb-9196-7a2e5d6a28a0.png)
@@ -120,3 +178,11 @@ These Total Seminars courses cover the topics tested on the CompTIA Network+ (N1
 
 
 ## 9 . CompTIA Network+ (N10-007) Cert Prep: 9 Managing the Network
+
+
+## Course details
+
+## Skills covered
+
+
+## Learning objectives
