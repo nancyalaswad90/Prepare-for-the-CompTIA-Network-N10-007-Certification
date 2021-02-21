@@ -20,6 +20,16 @@ These Total Seminars courses cover the topics tested on the CompTIA Network+ (N1
 
 
 
+.
+
+> ![path cert](https://user-images.githubusercontent.com/36210723/108638937-72847100-749a-11eb-9182-f8222662462e.png)
+
+
+
+.
+
+
+
 ## 1. CompTIA Network+ (N10-007) Cert Prep: 1 Understanding Networks
 
 
