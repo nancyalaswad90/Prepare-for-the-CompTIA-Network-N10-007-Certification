@@ -170,10 +170,19 @@ These Total Seminars courses cover the topics tested on the CompTIA Network+ (N1
 ## Learning objectives
 
 
-> ![cer 8](https://user-images.githubusercontent.com/36210723/107824355-00b97280-6d8a-11eb-9196-7a2e5d6a28a0.png)
+
+
+
+> ![cer8.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1613942653/cer8.png)
 
 
 .
+
+
+
+
+
+------------------
 
 
 
@@ -234,4 +243,6 @@ We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at
 
 .
 
-> 
+> ![cer9.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1613942606/cer9.png) 
+
+.
