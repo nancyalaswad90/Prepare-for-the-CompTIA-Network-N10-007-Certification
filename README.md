@@ -177,12 +177,61 @@ These Total Seminars courses cover the topics tested on the CompTIA Network+ (N1
 
 
 
-## Ninth Course : CompTIA Network+ (N10-007) Cert Prep: 9 Managing the Network
+## Ninth Course : [CompTIA Network+ (N10-007) Cert Prep: 9 Managing the Network](https://www.linkedin.com/learning/comptia-network-plus-n10-007-cert-prep-9-managing-the-network/what-is-risk-management?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5c48c642498e71fa1840e376)
 
 
 ## Course details
 
-## Skills covered
+
+Validate your ability to configure, manage, and maintain networks by earning the CompTIA Network+ certification. In this course—the final installment in the nine-part CompTIA Network+ Cert Prep series—instructor Mike Meyers helps to prepare you for the CompTIA Network+ exam (N10-007) as he covers essential network operations, network security, and network troubleshooting and tools exam concepts. Mike goes over network management, including risk management and change management, threats, firewalls, and system monitoring. He also discusses network troubleshooting theory, going over each of the key steps you should follow to resolve a network issue.
+
+This Total Seminars course covers the exam certification topics. For information on additional study resources—including practice tests, lab simulations, books, and discounted exam vouchers—visit totalsem.com/linkedin. LinkedIn Learning members receive special pricing.
+
+This course was created by Total Seminars. We are pleased to offer this training in our library.
+
+We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.
+
+
+
 
 
 ## Learning objectives
+
+
+
+- What is risk management?
+
+- Managing change to a network
+
+- Mitigating network threats
+
+- Training users
+
+- Denial of service and social engineering attacks
+
+- Firewalls
+
+- Hardening devices
+
+- Testing network security
+
+- Network monitoring
+
+- Security information and event management (SIEM) tools
+- 
+
+
+
+
+## Skills covered
+
+
+- Network Administration
+
+- Computer Networking
+
+
+
+.
+
+> 
