@@ -69,7 +69,7 @@ These Total Seminars courses cover the topics tested on the CompTIA Network+ (N1
 .
 
 
-## 3. CompTIA Network+ (N10-007) Cert Prep: 3 The World of TCP/IP
+## Third Course:  CompTIA Network+ (N10-007) Cert Prep: 3 The World of TCP/IP
 
 
 ## Course details
@@ -88,7 +88,7 @@ These Total Seminars courses cover the topics tested on the CompTIA Network+ (N1
 
 
 
-## 4. CompTIA Network+ (N10-007) Cert Prep: 4 Making TCP/IP Work
+## Fourth Course :  CompTIA Network+ (N10-007) Cert Prep: 4 Making TCP/IP Work
 
 ## Course details
 
@@ -106,7 +106,7 @@ These Total Seminars courses cover the topics tested on the CompTIA Network+ (N1
 
 
 
-## 5. CompTIA Network+ (N10-007) Cert Prep: 5 Securing TCP/IP
+## Fifth Course : CompTIA Network+ (N10-007) Cert Prep: 5 Securing TCP/IP
 
 
 ## Course details
@@ -124,7 +124,7 @@ These Total Seminars courses cover the topics tested on the CompTIA Network+ (N1
 
 .
 
-## 6. [CompTIA Network+ (N10-007) Cert Prep: 6 Advanced IP Networking](https://www.linkedin.com/learning/comptia-network-plus-n10-007-cert-prep-6-advanced-ip-networking/understand-ip-tunneling?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5c48c642498e71fa1840e376)
+## Sixth Course : [CompTIA Network+ (N10-007) Cert Prep: 6 Advanced IP Networking](https://www.linkedin.com/learning/comptia-network-plus-n10-007-cert-prep-6-advanced-ip-networking/understand-ip-tunneling?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5c48c642498e71fa1840e376)
 
 
 
@@ -142,7 +142,7 @@ These Total Seminars courses cover the topics tested on the CompTIA Network+ (N1
 
 .
 
-## 7. CompTIA Network+ (N10-007) Cert Prep: 7 Wireless, Virtual, Cloud, and Mobile Networking
+## Seventh Course : CompTIA Network+ (N10-007) Cert Prep: 7 Wireless, Virtual, Cloud, and Mobile Networking
 
 
 
@@ -159,7 +159,7 @@ These Total Seminars courses cover the topics tested on the CompTIA Network+ (N1
 .
 
 
-## 8. CompTIA Network+ (N10-007) Cert Prep: 8 Building a Real-World Network
+## Eighth Course : CompTIA Network+ (N10-007) Cert Prep: 8 Building a Real-World Network
 
 
 ## Course details
@@ -177,7 +177,7 @@ These Total Seminars courses cover the topics tested on the CompTIA Network+ (N1
 
 
 
-## 9 . CompTIA Network+ (N10-007) Cert Prep: 9 Managing the Network
+## Ninth Course : CompTIA Network+ (N10-007) Cert Prep: 9 Managing the Network
 
 
 ## Course details
