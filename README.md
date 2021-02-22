@@ -204,14 +204,38 @@ We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at
 --------------------------------
 
 
-## Fourth Course :  CompTIA Network+ (N10-007) Cert Prep: 4 Making TCP/IP Work
+## Fourth Course :  [CompTIA Network+ (N10-007) Cert Prep: 4 Making TCP/IP Work](https://www.linkedin.com/learning/comptia-network-plus-n10-007-cert-prep-4-making-tcp-ip-work/tcp-and-udp?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5c48c642498e71fa1840e376)
+
+
+
 
 ## Course details
+
+
+The CompTIA Network+ certification is one of the most popular vendor-neutral certifications for networking professionals. In this installment of the nine-part CompTIA Network+ Cert Prep series, instructor Mike Meyers covers essential networking concepts as he discusses TCP/IP applications and network naming. Mike dives into the concepts and characteristics of routing and switching. He explores various tools that can help you get quick answers when troubleshooting a network latency issue, explains the various protocols used in sending and receiving email, discusses how to work with the DNS system, and more.
+
+This Total Seminars course covers the exam certification topics. For information on additional study resources—including practice tests, lab simulations, books, and discounted exam vouchers—visit totalsem.com/linkedin. LinkedIn Learning members receive special pricing.
+
+This course was created by Total Seminars. We are pleased to offer this training in our library.
+
+We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.
+
+
+.
+
 
 ## Skills covered
 
 
-## Learning objectives
+- Network Administration
+
+
+- Computer Networking
+
+
+
+
+.
 
 
 > ![cer4.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1612805050/cer4.png)
@@ -220,7 +244,7 @@ We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at
 
 .
 
-
+------------------------------------------
 
 ## Fifth Course : CompTIA Network+ (N10-007) Cert Prep: 5 Securing TCP/IP
 
