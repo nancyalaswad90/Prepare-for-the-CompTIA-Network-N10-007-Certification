@@ -144,15 +144,55 @@ We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at
 -------------------------------
 
 
-## Third Course:  CompTIA Network+ (N10-007) Cert Prep: 3 The World of TCP/IP
+## Third Course:  [CompTIA Network+ (N10-007) Cert Prep: 3 The World of TCP/IP](https://www.linkedin.com/learning/comptia-network-plus-n10-007-cert-prep-3-the-world-of-tcp-ip/introduction-to-ip-addressing-and-binary?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5c48c642498e71fa1840e376)
 
 
 ## Course details
 
+Take a deep dive into the world of TCP/IP while you study for the new CompTIA Network+ exam (N10-007). This is part 2 of a 9-part series, brought to you by a partnership between LinkedIn Learning and Total Seminars. The training is based on Mike Meyers's gold standard CompTIA Network+ All-in-One Exam Guide, 7th Edition. This installment covers dynamic and static IP addressing, subnetting, NAT addressing, port forwarding, and dynamic and static routing using modern protocols such as RIP, OSPF, and BGP. By the end, you'll have improved your networking skills and your ability to earn this sought-after IT certification.
+
+This Total Seminars course covers the exam certification topics. For information on additional study resources—including practice tests, lab simulations, books, and discounted exam vouchers—visit totalsem.com/linkedin. LinkedIn Learning members receive special pricing.
+
+This course was created by Total Seminars. We are pleased to offer this training in our library.
+
+We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.
+
+
+
+.
+
+## Learning objectives
+
+
+- Dynamic and static IP addressing
+
+- Subnetting
+
+- Rogue DHCP servers
+
+- Routers
+
+- Network Address Translation (NAT)
+
+- Forwarding ports
+
+- Dynamic and static routing
+
+- Routing protocols: RIP, OSPF, and BGP
+
+.
+
+
+
 ## Skills covered
 
 
-## Learning objectives
+- Network Administration
+
+- Computer Networking
+
+
+.
 
 
 > ![cer3.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1612748151/cer3.png)
@@ -161,6 +201,7 @@ We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at
 
 .
 
+--------------------------------
 
 
 ## Fourth Course :  CompTIA Network+ (N10-007) Cert Prep: 4 Making TCP/IP Work
