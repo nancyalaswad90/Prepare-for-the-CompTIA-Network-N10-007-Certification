@@ -246,15 +246,40 @@ We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at
 
 ------------------------------------------
 
-## Fifth Course : CompTIA Network+ (N10-007) Cert Prep: 5 Securing TCP/IP
+## Fifth Course : [CompTIA Network+ (N10-007) Cert Prep: 5 Securing TCP/IP](https://www.linkedin.com/learning/comptia-network-plus-n10-007-cert-prep-5-securing-tcp-ip/making-tcp-ip-secure?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5c48c642498e71fa1840e376)
+
+
+
 
 
 ## Course details
 
+
+Earning the CompTIA Network+ certification can help to jump-start your career in IT by validating your understanding of how to configure, manage, and maintain networks. In this installment of the CompTIA Network+ Cert Prep series, instructor Mike Meyers covers key network security exam concepts as he explains how to secure TCP/IP. Mike explores symmetric and asymmetric encryption and goes over how cryptographic hashes work. He also discusses Kerberos, access control lists, single sign-on, and more.
+
+This Total Seminars course covers the exam certification topics. For information on additional study resources—including practice tests, lab simulations, books, and discounted exam vouchers—visit totalsem.com/linkedin. LinkedIn Learning members receive special pricing.
+
+This course was created by Total Seminars. We are pleased to offer this training in our library.
+
+We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.
+
+
+.
+
+.
+
+
 ## Skills covered
 
 
-## Learning objectives
+- Network Administration
+
+
+- Computer Networking
+
+
+
+.
 
 
 >  ![cer5.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1612804867/cer5.png)
@@ -262,7 +287,14 @@ We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at
 
 
 
+
 .
+
+
+
+----------------------------
+
+
 
 ## Sixth Course : [CompTIA Network+ (N10-007) Cert Prep: 6 Advanced IP Networking](https://www.linkedin.com/learning/comptia-network-plus-n10-007-cert-prep-6-advanced-ip-networking/understand-ip-tunneling?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5c48c642498e71fa1840e376)
 
