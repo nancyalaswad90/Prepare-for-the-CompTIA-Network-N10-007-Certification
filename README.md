@@ -441,17 +441,43 @@ We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at
 
 
 
-## Eighth Course : CompTIA Network+ (N10-007) Cert Prep: 8 Building a Real-World Network
+## Eighth Course : [CompTIA Network+ (N10-007) Cert Prep: 8 Building a Real-World Network](https://www.linkedin.com/learning/comptia-network-plus-n10-007-cert-prep-8-building-a-real-world-network/network-types?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5c48c642498e71fa1840e376)
+
+
+
 
 
 ## Course details
 
+
+
+Jump-start your career in IT by earning the CompTIA Network+ certification, one of the most sought-after certifications for networking professionals. In this installment of the nine-part CompTIA Network+ Cert Prep series, instructor Mike Meyers covers key networking exam concepts as he steps through how to design and build a real-world network. Here, Mike compares and contrasts the characteristics of network topologies, types, and technologies—helping to prepare you for the corresponding exam objective in the process. He familiarizes you with the different types of networks; goes over key aspects of network design; shares how to create an effective contingency plan; describes the when, why, and how of backups; and more.
+
+This Total Seminars course covers the exam certification topics. For information on additional study resources—including practice tests, lab simulations, books, and discounted exam vouchers—visit totalsem.com/linkedin. LinkedIn Learning members receive special pricing.
+
+This course was created by Total Seminars. We are pleased to offer this training in our library.
+
+We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.
+
+
+
+
+
+
+.
+
+
+
 ## Skills covered
 
 
-## Learning objectives
+- Network Administration
 
 
+- Computer Networking
+
+
+.
 
 
 
