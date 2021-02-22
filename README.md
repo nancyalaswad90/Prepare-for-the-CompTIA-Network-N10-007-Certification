@@ -68,17 +68,70 @@ We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at
 ------------------------------
 
 
-## Second Course :  CompTIA Network+ (N10-007) Cert Prep: 2 The Physical Network
+## Second Course :  [CompTIA Network+ (N10-007) Cert Prep: 2 The Physical Network](https://www.linkedin.com/learning/comptia-network-plus-n10-007-cert-prep-2-the-physical-network/network-topologies?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5c48c642498e71fa1840e376)
 
 
 
 
 ## Course details
 
-## Skills covered
+
+
+Take this comprehensive prep course for the new CompTIA Network+ exam (N10-007) to understand how the physical components of networks interact. This is part 2 of a 9-part series, brought to you by a partnership between LinkedIn Learning and Total Seminars. The training is based on Mike Meyers's gold standard CompTIA Network+ All-in-One Exam Guide, 7th Edition. This installment covers cabling, topologies, and Ethernet basics. Plus, learn how to set up and troubleshoot a modern, top-of-the-line, physical network complete with switches, hubs, and routers. By the end of the training, you'll have improved your networking skills and your ability to earn this sought-after IT certification.
+
+This Total Seminars course covers the exam certification topics. For information on additional study resources—including practice tests, lab simulations, books, and discounted exam vouchers—visit totalsem.com/linkedin. LinkedIn Learning members receive special pricing.
+
+This course was created by Total Seminars. We are pleased to offer this training in our library.
+
+We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.
+
+
+
+.
+
 
 
 ## Learning objectives
+
+
+
+- Cabling
+
+- Network topologies
+
+- Fire ratings
+
+- Ethernet basics
+
+- Hubs vs. switches
+
+- 100BASE-T, gigabit, and 10-gigabit Ethernet
+
+- Installing structured cabling
+
+- Testing cable
+
+- Locating cables and connectors with a toner and probe
+
+- Wired connections
+
+- Skills covered
+
+
+.
+
+
+## Skills covered
+
+
+- Network Administration 
+
+
+- Computer Networking
+
+
+.
+
 
 
 > ![cer2.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1612748299/cer2.png)
@@ -86,6 +139,9 @@ We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at
 
 
 .
+
+
+-------------------------------
 
 
 ## Third Course:  CompTIA Network+ (N10-007) Cert Prep: 3 The World of TCP/IP
