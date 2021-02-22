@@ -365,21 +365,80 @@ We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at
 ---------------------------------
 
 
-## Seventh Course : CompTIA Network+ (N10-007) Cert Prep: 7 Wireless, Virtual, Cloud, and Mobile Networking
+## Seventh Course : [CompTIA Network+ (N10-007) Cert Prep: 7 Wireless, Virtual, Cloud, and Mobile Networking](https://www.linkedin.com/learning/comptia-network-plus-n10-007-cert-prep-7-wireless-virtual-cloud-and-mobile-networking/introduction-to-802-11?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5c48c642498e71fa1840e376)
+
+
 
 
 
 ## Course details
 
-## Skills covered
+
+
+Jump-start your career in IT by earning the CompTIA Network+ certification, one of the most sought-after distinctions for networking professionals. In this course—the seventh installment in the nine-part CompTIA Network+ Cert Prep series—instructor Mike Meyers helps to prepare you for the CompTIA Network+ (N10-007) exam as he covers wireless networking, as well as cloud, virtual, and mobile networking. Mike discusses retro threats from older wireless protocols, including wardriving and warchalking. He also discusses the various wireless networking standards, the opposing forces of corporate and personal use of mobile devices, Wi-Fi Protected Setup (WPS), how to create a virtual machine, and more.
+
+This Total Seminars course covers the exam certification topics. For information on additional study resources—including practice tests, lab simulations, books, and discounted exam vouchers—visit totalsem.com/linkedin. LinkedIn Learning members receive special pricing.
+
+This course was created by Total Seminars. We are pleased to offer this training in our library.
+
+We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.
+
+
+.
 
 
 ## Learning objectives
+
+
+- Implementing wireless security
+
+
+- Threats to your wireless network
+
+- Wi-Fi Protected Setup
+
+- Installing a wireless network
+
+- Cloud ownership and implementation
+
+- Creating a virtual machine
+
+- PaaS, SaaS, and IaaS
+
+- Mobile networking
+
+- Deploying mobile devices
+
+
+
+
+
+.
+
+
+
+## Skills covered
+
+
+- Network Administration
+
+
+- Computer Networking
+
+
+.
+
+
+
 
 > ![cer 7](https://user-images.githubusercontent.com/36210723/107824357-01ea9f80-6d8a-11eb-84de-1fbd153d799c.png)
 
 
 .
+
+
+------------------------------
+
 
 
 ## Eighth Course : CompTIA Network+ (N10-007) Cert Prep: 8 Building a Real-World Network
