@@ -302,10 +302,57 @@ We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at
 
 ## Course details
 
-## Skills covered
+
+
+Bolster your IT networking expertise as you prepare to take and pass the CompTIA Network+ exam (N10-007). In this course—the sixth installment in the nine-part CompTIA Network+ Cert Prep series—instructor Mike Meyers covers key networking and infrastructure exam concepts as he discusses advanced networking devices, IPv6, and remote connectivity. Mike helps you understand IP tunneling and explores the different types of devices and locations for network security. He also discusses key routing and switching concepts using IPv6, compares and contrasts WAN technologies, and more.
+
+This Total Seminars course covers the exam certification topics. For information on additional study resources—including practice tests, lab simulations, books, and discounted exam vouchers—visit totalsem.com/linkedin. LinkedIn Learning members receive special pricing.
+
+This course was created by Total Seminars. We are pleased to offer this training in our library.
+
+We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.
+
+
+.
+
 
 
 ## Learning objectives
+
+
+
+- Making secure connections through tunnels
+
+- InterVLAN routing
+
+- Port bonding and port mirroring
+
+- IDS vs. IPS
+
+- Routing and switching with IPv6
+
+- Packet switching
+
+- ISDN and BPL
+
+- Remote desktop connectivity
+
+
+
+.
+
+
+
+## Skills covered
+
+
+- Network Administration
+
+
+- Computer Networking
+
+
+.
 
 
 > ![cer 6.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1612818586/cer_6.png)
@@ -313,6 +360,10 @@ We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at
 
 
 .
+
+
+---------------------------------
+
 
 ## Seventh Course : CompTIA Network+ (N10-007) Cert Prep: 7 Wireless, Virtual, Cloud, and Mobile Networking
 
