@@ -30,16 +30,33 @@ These Total Seminars courses cover the topics tested on the CompTIA Network+ (N1
 
 
 
-## First Course : CompTIA Network+ (N10-007) Cert Prep: 1 Understanding Networks
+## First Course : [CompTIA Network+ (N10-007) Cert Prep: 1 Understanding Networks](https://www.linkedin.com/learning/comptia-network-plus-n10-007-cert-prep-1-understanding-networks/what-is-a-model?contextUrn=urn%3Ali%3AlyndaLearningPath%3A5c48c642498e71fa1840e376)
 
 
 
 ## Course details
 
+
+CompTIA Network+ Cert Prep is a comprehensive training series designed to help you earn your Network+ certification—the most sought-after, vendor-neutral certification for networking professionals. This is part 1 of a 9-part series, brought to you by a partnership between LinkedIn Learning and Total Seminars, and based on Mike Meyers's gold standard CompTIA Network+ All-in-One Exam Guide, 7th Edition. This installment provides a thorough overview of networking basics: OSI versus TCP/IP models, MAC and IP addressing, and packets and ports. Start here to prepare for the exam and your future as a certified networking professional.
+
+This Total Seminars course covers the exam certification topics. For information on additional study resources—including practice tests, lab simulations, books, and discounted exam vouchers—visit totalsem.com/linkedin. LinkedIn Learning members receive special pricing.
+
+This course was created by Total Seminars. We are pleased to offer this training in our library.
+
+We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.
+
+
+
+
 ## Skills covered
 
 
-## Learning objectives
+- Network Administration
+
+- Computer Networking
+
+.
+
 
 
 > ![cer.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1612748150/cer.png)
@@ -47,6 +64,8 @@ These Total Seminars courses cover the topics tested on the CompTIA Network+ (N1
 
 .
 
+
+------------------------------
 
 
 ## Second Course :  CompTIA Network+ (N10-007) Cert Prep: 2 The Physical Network
