@@ -20,6 +20,19 @@ These Total Seminars courses cover the topics tested on the CompTIA Network+ (N1
 
 
 
+
+## Skills covered
+
+
+- Network Administration
+
+- Computer Networking
+
+
+
+.
+
+
 .
 
 > ![path cert](https://user-images.githubusercontent.com/36210723/108638937-72847100-749a-11eb-9182-f8222662462e.png)
@@ -42,16 +55,7 @@ CompTIA Network+ Cert Prep is a comprehensive training series designed to help y
 
 
 
-
-## Skills covered
-
-
-- Network Administration
-
-- Computer Networking
-
 .
-
 
 
 > ![cer.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1612748150/cer.png)
@@ -106,7 +110,6 @@ Take this comprehensive prep course for the new CompTIA Network+ exam (N10-007) 
 
 - Wired connections
 
-- Skills covered
 
 
 .
@@ -241,20 +244,7 @@ Earning the CompTIA Network+ certification can help to jump-start your career in
 
 .
 
-.
 
-
-## Skills covered
-
-
-- Network Administration
-
-
-- Computer Networking
-
-
-
-.
 
 
 >  ![cer5.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1612804867/cer5.png)
@@ -314,16 +304,7 @@ Bolster your IT networking expertise as you prepare to take and pass the CompTIA
 
 
 
-## Skills covered
 
-
-- Network Administration
-
-
-- Computer Networking
-
-
-.
 
 
 > ![cer 6.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1612818586/cer_6.png)
@@ -383,19 +364,6 @@ Jump-start your career in IT by earning the CompTIA Network+ certification, one 
 
 
 
-## Skills covered
-
-
-- Network Administration
-
-
-- Computer Networking
-
-
-.
-
-
-
 
 > ![cer 7](https://user-images.githubusercontent.com/36210723/107824357-01ea9f80-6d8a-11eb-84de-1fbd153d799c.png)
 
@@ -425,23 +393,7 @@ Jump-start your career in IT by earning the CompTIA Network+ certification, one 
 
 
 
-
 .
-
-
-
-## Skills covered
-
-
-- Network Administration
-
-
-- Computer Networking
-
-
-.
-
-
 
 > ![cer8.png](https://udacity-reviews-uploads.s3.us-west-2.amazonaws.com/_attachments/399095/1613942653/cer8.png)
 
