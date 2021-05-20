@@ -39,11 +39,6 @@ These Total Seminars courses cover the topics tested on the CompTIA Network+ (N1
 
 CompTIA Network+ Cert Prep is a comprehensive training series designed to help you earn your Network+ certification—the most sought-after, vendor-neutral certification for networking professionals. This is part 1 of a 9-part series, brought to you by a partnership between LinkedIn Learning and Total Seminars, and based on Mike Meyers's gold standard CompTIA Network+ All-in-One Exam Guide, 7th Edition. This installment provides a thorough overview of networking basics: OSI versus TCP/IP models, MAC and IP addressing, and packets and ports. Start here to prepare for the exam and your future as a certified networking professional.
 
-This Total Seminars course covers the exam certification topics. For information on additional study resources—including practice tests, lab simulations, books, and discounted exam vouchers—visit totalsem.com/linkedin. LinkedIn Learning members receive special pricing.
-
-This course was created by Total Seminars. We are pleased to offer this training in our library.
-
-We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.
 
 
 
@@ -79,11 +74,7 @@ We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at
 
 Take this comprehensive prep course for the new CompTIA Network+ exam (N10-007) to understand how the physical components of networks interact. This is part 2 of a 9-part series, brought to you by a partnership between LinkedIn Learning and Total Seminars. The training is based on Mike Meyers's gold standard CompTIA Network+ All-in-One Exam Guide, 7th Edition. This installment covers cabling, topologies, and Ethernet basics. Plus, learn how to set up and troubleshoot a modern, top-of-the-line, physical network complete with switches, hubs, and routers. By the end of the training, you'll have improved your networking skills and your ability to earn this sought-after IT certification.
 
-This Total Seminars course covers the exam certification topics. For information on additional study resources—including practice tests, lab simulations, books, and discounted exam vouchers—visit totalsem.com/linkedin. LinkedIn Learning members receive special pricing.
 
-This course was created by Total Seminars. We are pleased to offer this training in our library.
-
-We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.
 
 
 
@@ -151,12 +142,6 @@ We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at
 
 Take a deep dive into the world of TCP/IP while you study for the new CompTIA Network+ exam (N10-007). This is part 2 of a 9-part series, brought to you by a partnership between LinkedIn Learning and Total Seminars. The training is based on Mike Meyers's gold standard CompTIA Network+ All-in-One Exam Guide, 7th Edition. This installment covers dynamic and static IP addressing, subnetting, NAT addressing, port forwarding, and dynamic and static routing using modern protocols such as RIP, OSPF, and BGP. By the end, you'll have improved your networking skills and your ability to earn this sought-after IT certification.
 
-This Total Seminars course covers the exam certification topics. For information on additional study resources—including practice tests, lab simulations, books, and discounted exam vouchers—visit totalsem.com/linkedin. LinkedIn Learning members receive special pricing.
-
-This course was created by Total Seminars. We are pleased to offer this training in our library.
-
-We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.
-
 
 
 .
@@ -214,11 +199,7 @@ We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at
 
 The CompTIA Network+ certification is one of the most popular vendor-neutral certifications for networking professionals. In this installment of the nine-part CompTIA Network+ Cert Prep series, instructor Mike Meyers covers essential networking concepts as he discusses TCP/IP applications and network naming. Mike dives into the concepts and characteristics of routing and switching. He explores various tools that can help you get quick answers when troubleshooting a network latency issue, explains the various protocols used in sending and receiving email, discusses how to work with the DNS system, and more.
 
-This Total Seminars course covers the exam certification topics. For information on additional study resources—including practice tests, lab simulations, books, and discounted exam vouchers—visit totalsem.com/linkedin. LinkedIn Learning members receive special pricing.
 
-This course was created by Total Seminars. We are pleased to offer this training in our library.
-
-We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.
 
 
 .
@@ -256,12 +237,6 @@ We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at
 
 
 Earning the CompTIA Network+ certification can help to jump-start your career in IT by validating your understanding of how to configure, manage, and maintain networks. In this installment of the CompTIA Network+ Cert Prep series, instructor Mike Meyers covers key network security exam concepts as he explains how to secure TCP/IP. Mike explores symmetric and asymmetric encryption and goes over how cryptographic hashes work. He also discusses Kerberos, access control lists, single sign-on, and more.
-
-This Total Seminars course covers the exam certification topics. For information on additional study resources—including practice tests, lab simulations, books, and discounted exam vouchers—visit totalsem.com/linkedin. LinkedIn Learning members receive special pricing.
-
-This course was created by Total Seminars. We are pleased to offer this training in our library.
-
-We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.
 
 
 .
@@ -306,11 +281,7 @@ We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at
 
 Bolster your IT networking expertise as you prepare to take and pass the CompTIA Network+ exam (N10-007). In this course—the sixth installment in the nine-part CompTIA Network+ Cert Prep series—instructor Mike Meyers covers key networking and infrastructure exam concepts as he discusses advanced networking devices, IPv6, and remote connectivity. Mike helps you understand IP tunneling and explores the different types of devices and locations for network security. He also discusses key routing and switching concepts using IPv6, compares and contrasts WAN technologies, and more.
 
-This Total Seminars course covers the exam certification topics. For information on additional study resources—including practice tests, lab simulations, books, and discounted exam vouchers—visit totalsem.com/linkedin. LinkedIn Learning members receive special pricing.
 
-This course was created by Total Seminars. We are pleased to offer this training in our library.
-
-We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.
 
 
 .
@@ -377,11 +348,6 @@ We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at
 
 Jump-start your career in IT by earning the CompTIA Network+ certification, one of the most sought-after distinctions for networking professionals. In this course—the seventh installment in the nine-part CompTIA Network+ Cert Prep series—instructor Mike Meyers helps to prepare you for the CompTIA Network+ (N10-007) exam as he covers wireless networking, as well as cloud, virtual, and mobile networking. Mike discusses retro threats from older wireless protocols, including wardriving and warchalking. He also discusses the various wireless networking standards, the opposing forces of corporate and personal use of mobile devices, Wi-Fi Protected Setup (WPS), how to create a virtual machine, and more.
 
-This Total Seminars course covers the exam certification topics. For information on additional study resources—including practice tests, lab simulations, books, and discounted exam vouchers—visit totalsem.com/linkedin. LinkedIn Learning members receive special pricing.
-
-This course was created by Total Seminars. We are pleased to offer this training in our library.
-
-We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.
 
 
 .
@@ -453,11 +419,7 @@ We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at
 
 Jump-start your career in IT by earning the CompTIA Network+ certification, one of the most sought-after certifications for networking professionals. In this installment of the nine-part CompTIA Network+ Cert Prep series, instructor Mike Meyers covers key networking exam concepts as he steps through how to design and build a real-world network. Here, Mike compares and contrasts the characteristics of network topologies, types, and technologies—helping to prepare you for the corresponding exam objective in the process. He familiarizes you with the different types of networks; goes over key aspects of network design; shares how to create an effective contingency plan; describes the when, why, and how of backups; and more.
 
-This Total Seminars course covers the exam certification topics. For information on additional study resources—including practice tests, lab simulations, books, and discounted exam vouchers—visit totalsem.com/linkedin. LinkedIn Learning members receive special pricing.
 
-This course was created by Total Seminars. We are pleased to offer this training in our library.
-
-We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.
 
 
 
@@ -502,11 +464,7 @@ We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at
 
 Validate your ability to configure, manage, and maintain networks by earning the CompTIA Network+ certification. In this course—the final installment in the nine-part CompTIA Network+ Cert Prep series—instructor Mike Meyers helps to prepare you for the CompTIA Network+ exam (N10-007) as he covers essential network operations, network security, and network troubleshooting and tools exam concepts. Mike goes over network management, including risk management and change management, threats, firewalls, and system monitoring. He also discusses network troubleshooting theory, going over each of the key steps you should follow to resolve a network issue.
 
-This Total Seminars course covers the exam certification topics. For information on additional study resources—including practice tests, lab simulations, books, and discounted exam vouchers—visit totalsem.com/linkedin. LinkedIn Learning members receive special pricing.
 
-This course was created by Total Seminars. We are pleased to offer this training in our library.
-
-We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at a 10% discount. For more information on how to obtain this discount, please download these PDF instructions.
 
 
 
@@ -535,17 +493,8 @@ We are a CompTIA Partner. As such, we are able to offer CompTIA exam vouchers at
 - Network monitoring
 
 - Security information and event management (SIEM) tools
-- 
 
 
-
-
-## Skills covered
-
-
-- Network Administration
-
-- Computer Networking
 
 
 
